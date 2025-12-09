@@ -1,5 +1,6 @@
 
 # Set Library — C++17
+![build](https://img.shields.io/github/actions/workflow/status/raghvendra151/set-library-cpp/ci.yml?branch=main&label=build)
 
 A **Set** class implemented from scratch using `std::vector<int>` with elements kept **unique** and **ascending**. Includes classic operations (insert, remove, union, intersection, difference, symmetric difference), membership, size, and print — plus tests and CI.
 
