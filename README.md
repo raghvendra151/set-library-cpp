@@ -1,7 +1,7 @@
 
 # Set Library — C++17
 
-A clean, interview-ready **Set** class implemented from scratch using `std::vector<int>` with elements kept **unique** and **ascending**. Includes classic operations (insert, remove, union, intersection, difference, symmetric difference), membership, size, and print — plus tests and CI.
+A **Set** class implemented from scratch using `std::vector<int>` with elements kept **unique** and **ascending**. Includes classic operations (insert, remove, union, intersection, difference, symmetric difference), membership, size, and print — plus tests and CI.
 
 ## Features
 - Unique, sorted storage using `std::vector<int>`
