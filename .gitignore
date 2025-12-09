@@ -1,0 +1,22 @@
+# Build and cache files
+/build/
+/out/
+/dist/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Binary objects
+*.o
+*.obj
+*.pdb
+*.exe
+*.dll
+*.so
+*.dylib
+
+# IDE/project files
+.vscode/
+.idea/
+*.code-workspace
